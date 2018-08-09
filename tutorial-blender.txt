@@ -1,0 +1,15 @@
+A deseleciona tudo
+B abre a seleção
+E extrude
+S scale
+
+R rotate (usar X, Y e Z)
+T translate
+
+Botão direito seleciona elemento
+tab entra dentro do elemento
+
+
+Números
+
+click + scroll mudar visão ou 2 4 6 8
